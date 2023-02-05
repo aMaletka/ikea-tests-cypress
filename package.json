@@ -1,0 +1,19 @@
+{
+  "name": "ikea-tests-cypress",
+  "version": "1.0.0",
+  "description": "test E2E wyszukanie produktu, dodanie do koszyka i uzupełnienie formularza zamówienia",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "testy",
+    "automatyczne"
+  ],
+  "author": "amaletka",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  },
+  "dependencies": {}
+}
